@@ -1,0 +1,11 @@
+python-dotenv
+streamlit>=1.33
+langchain>=0.1.20
+langchain-groq
+langchain-openai
+langchain-tavily
+langgraph>=0.0.35
+fastapi
+uvicorn
+pydantic
+requests
